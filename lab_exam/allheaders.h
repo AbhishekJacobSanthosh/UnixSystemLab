@@ -10,3 +10,4 @@
 #include<time.h>
 #include<dirent.h>
 #include<utime.h>
+#include<string.h>
